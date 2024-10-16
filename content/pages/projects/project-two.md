@@ -18,7 +18,7 @@ media:
   altText: Project image
 bottomSections:
   - type: TextSection
-    colors: colors-e
+    colors: colors-f
     variant: variant-b
     title: My New Section
     subtitle: The section subtitle
